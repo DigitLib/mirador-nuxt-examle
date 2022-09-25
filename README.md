@@ -10,7 +10,7 @@ https://milutinbojic.digitalna.rs/vilijam
 
 ## Demo
 
-https://nakamura196.github.io/nuxt-mirador/
+https://mirador-nuxt-example-5o12.vercel.app/
 
 ## Project setup
 ```
