@@ -1,0 +1,109 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://milutinbojic.digitalna.rs/vilijam/mnf/rout-col.json",
+  "type": "Collection",
+  "label": {"none": ["The works of William Shakespeare : in nine volumes."]},
+  "logo": "https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png",
+  "summary": {},
+  "items": [
+    {
+      "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10749560/manifest",
+      "type": "Manifest",
+      "@logo": "https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png",
+      "label": {"none": ["The works of William Shakespeare : in nine volumes. 1"]},
+      "thumbnail": {
+        "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10749560_00001/full/280,/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg"
+      }
+    },
+    {
+      "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10749561/manifest",
+      "type": "Manifest",
+      "@logo": "https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png",
+      "label": {"none": ["The works of William Shakespeare : in nine volumes. 2"]},
+      "thumbnail": {
+        "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10749561_00001/full/280,/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg"
+      }
+    },
+    {
+      "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10749562/manifest",
+      "type": "Manifest",
+      "@logo": "https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png",
+      "label": {"none": ["The works of William Shakespeare : in nine volumes. 3"]},
+      "thumbnail": {
+        "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10749562_00001/full/280,/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg"
+      }
+    },
+    {
+      "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10749563/manifest",
+      "type": "Manifest",
+      "@logo": "https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png",
+      "label": {"none": ["The works of William Shakespeare : in nine volumes. 4"]},
+      "thumbnail": {
+        "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10749563_00001/full/280,/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg"
+      }
+    },
+    {
+      "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10749564/manifest",
+      "type": "Manifest",
+      "@logo": "https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png",
+      "label": {"none": ["The works of William Shakespeare : in nine volumes. 5"]},
+      "thumbnail": {
+        "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10749564_00001/full/280,/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg"
+      }
+    },
+    {
+      "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10749565/manifest",
+      "type": "Manifest",
+      "@logo": "https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png",
+      "label": {"none": ["The works of William Shakespeare : in nine volumes. 6"]},
+      "thumbnail": {
+        "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10749565_00001/full/280,/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg"
+      }
+    },
+    {
+      "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10749566/manifest",
+      "type": "Manifest",
+      "@logo": "https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png",
+      "label": {"none": ["The works of William Shakespeare : in nine volumes. 7"]},
+      "thumbnail": {
+        "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10749566_00001/full/280,/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg"
+      }
+    },
+    {
+      "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10749567/manifest",
+      "type": "Manifest",
+      "@logo": "https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png",
+      "label": {"none": ["The works of William Shakespeare : in nine volumes. 8"]},
+      "thumbnail": {
+        "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10749567_00001/full/280,/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg"
+      }
+    },
+    {
+      "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10749568/manifest",
+      "type": "Manifest",
+      "@logo": "https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png",
+      "label": {"none": ["The works of William Shakespeare : in nine volumes. 9"]},
+      "thumbnail": {
+        "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10749568_00001/full/280,/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg"
+      }
+    }
+  ]
+}

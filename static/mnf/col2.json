@@ -1,0 +1,87 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://milutinbojic.digitalna.rs/iiif/api/presentation/3/collection/a7dffa27-9e1d-44ff-9ac9-0091400891d2",
+  "type": "Collection",
+  "label": {"none": ["Бојићева библиотека"]},
+  "logo": "https://milutinbojic.digitalna.rs/iiiflogo/logo.png",
+  "summary": {},
+  "items": [
+    {
+      "id": "https://milutinbojic.digitalna.rs/iiif/api/presentation/3/a7dffa27-9e1d-44ff-9ac9-0091400891d2%252F00000001%252Fbojicbib%252F00000003/manifest",
+      "type": "Manifest",
+      "@logo": "https://milutinbojic.digitalna.rs/iiiflogo/logo.png",
+      "label": {"none": ["Ein Volksfeind"]},
+      "thumbnail": {
+        "id": "https://milutinbojic.digitalna.rs/servlet/RcWebThumbnail?obj_id=00000001/bojicbib/00000003&pg_idx=0&obj_type=MONOGRAPH",
+        "type": "Image",
+        "format": "image/jpeg"
+      }
+    },
+    {
+      "id": "https://milutinbojic.digitalna.rs/iiif/api/presentation/3/a7dffa27-9e1d-44ff-9ac9-0091400891d2%252F00000001%252Fbojicbib%252F00000006/manifest",
+      "type": "Manifest",
+      "@logo": "https://milutinbojic.digitalna.rs/iiiflogo/logo.png",
+      "label": {"none": ["Афекти у данашњој психологији : по Вунту"]},
+      "thumbnail": {
+        "id": "https://milutinbojic.digitalna.rs/servlet/RcWebThumbnail?obj_id=00000001/bojicbib/00000006&pg_idx=0&obj_type=MONOGRAPH",
+        "type": "Image",
+        "format": "image/jpeg"
+      }
+    },
+    {
+      "id": "https://milutinbojic.digitalna.rs/iiif/api/presentation/3/a7dffa27-9e1d-44ff-9ac9-0091400891d2%252F00000001%252Fbojicbib%252F00000001/manifest",
+      "type": "Manifest",
+      "@logo": "https://milutinbojic.digitalna.rs/iiiflogo/logo.png",
+      "label": {"none": ["Искрице"]},
+      "thumbnail": {
+        "id": "https://milutinbojic.digitalna.rs/servlet/RcWebThumbnail?obj_id=00000001/bojicbib/00000001&pg_idx=0&obj_type=MONOGRAPH",
+        "type": "Image",
+        "format": "image/jpeg"
+      }
+    },
+    {
+      "id": "https://milutinbojic.digitalna.rs/iiif/api/presentation/3/a7dffa27-9e1d-44ff-9ac9-0091400891d2%252F00000001%252Fbojicbib%252F00000002/manifest",
+      "type": "Manifest",
+      "@logo": "https://milutinbojic.digitalna.rs/iiiflogo/logo.png",
+      "label": {"none": ["Нова Србија"]},
+      "thumbnail": {
+        "id": "https://milutinbojic.digitalna.rs/servlet/RcWebThumbnail?obj_id=00000001/bojicbib/00000002&pg_idx=0&obj_type=MONOGRAPH",
+        "type": "Image",
+        "format": "image/jpeg"
+      }
+    },
+    {
+      "id": "https://milutinbojic.digitalna.rs/iiif/api/presentation/3/a7dffa27-9e1d-44ff-9ac9-0091400891d2%252F00000001%252Fbojicbib%252F00000007/manifest",
+      "type": "Manifest",
+      "@logo": "https://milutinbojic.digitalna.rs/iiiflogo/logo.png",
+      "label": {"none": ["О трагичном песништву и позоришту код Грка"]},
+      "thumbnail": {
+        "id": "https://milutinbojic.digitalna.rs/servlet/RcWebThumbnail?obj_id=00000001/bojicbib/00000007&pg_idx=0&obj_type=MONOGRAPH",
+        "type": "Image",
+        "format": "image/jpeg"
+      }
+    },
+    {
+      "id": "https://milutinbojic.digitalna.rs/iiif/api/presentation/3/a7dffa27-9e1d-44ff-9ac9-0091400891d2%252F00000001%252Fbojicbib%252F00000005/manifest",
+      "type": "Manifest",
+      "@logo": "https://milutinbojic.digitalna.rs/iiiflogo/logo.png",
+      "label": {"none": ["Половая неврастения"]},
+      "thumbnail": {
+        "id": "https://milutinbojic.digitalna.rs/servlet/RcWebThumbnail?obj_id=00000001/bojicbib/00000005&pg_idx=0&obj_type=MONOGRAPH",
+        "type": "Image",
+        "format": "image/jpeg"
+      }
+    },
+    {
+      "id": "https://milutinbojic.digitalna.rs/iiif/api/presentation/3/a7dffa27-9e1d-44ff-9ac9-0091400891d2%252F00000001%252Fbojicbib%252F00000004/manifest",
+      "type": "Manifest",
+      "@logo": "https://milutinbojic.digitalna.rs/iiiflogo/logo.png",
+      "label": {"none": ["Српске народне гатке"]},
+      "thumbnail": {
+        "id": "https://milutinbojic.digitalna.rs/servlet/RcWebThumbnail?obj_id=00000001/bojicbib/00000004&pg_idx=0&obj_type=MONOGRAPH",
+        "type": "Image",
+        "format": "image/jpeg"
+      }
+    }
+  ]
+}

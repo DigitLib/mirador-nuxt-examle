@@ -1,0 +1,65 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://milutinbojic.digitalna.rs/iiif/api/presentation/3/collection/f77afd7c-334c-4c96-b962-b58775ca5044",
+ "type": "Collection",
+ "label": {"none": ["Шекспир"]},
+ "logo": "https://milutinbojic.digitalna.rs/iiiflogo/logo.png",
+ "summary": {},
+ "items": [
+  {
+   "id": "https://milutinbojic.digitalna.rs/iiif/api/presentation/3/f77afd7c-334c-4c96-b962-b58775ca5044%252F00000001%252Fvilijam1%252F00000005/manifest",
+   "type": "Manifest",
+   "@logo": "https://milutinbojic.digitalna.rs/iiiflogo/logo.png",
+   "label": {"none": ["Зимска бајка"]},
+   "thumbnail": {
+    "id": "https://milutinbojic.digitalna.rs/servlet/RcWebThumbnail?obj_id=00000001/vilijam1/00000005&pg_idx=0&obj_type=MONOGRAPH",
+    "type": "Image",
+    "format": "image/jpeg"
+   }
+  },
+  {
+   "id": "https://milutinbojic.digitalna.rs/iiif/api/presentation/3/f77afd7c-334c-4c96-b962-b58775ca5044%252F00000001%252Fvilijam1%252F00000006/manifest",
+   "type": "Manifest",
+   "@logo": "https://milutinbojic.digitalna.rs/iiiflogo/logo.png",
+   "label": {"none": ["Макбет"]},
+   "thumbnail": {
+    "id": "https://milutinbojic.digitalna.rs/servlet/RcWebThumbnail?obj_id=00000001/vilijam1/00000006&pg_idx=0&obj_type=MONOGRAPH",
+    "type": "Image",
+    "format": "image/jpeg"
+   }
+  },
+  {
+   "id": "https://milutinbojic.digitalna.rs/iiif/api/presentation/3/f77afd7c-334c-4c96-b962-b58775ca5044%252F00000001%252Fvilijam1%252F00000003/manifest",
+   "type": "Manifest",
+   "@logo": "https://milutinbojic.digitalna.rs/iiiflogo/logo.png",
+   "label": {"none": ["Ромео и Јулија"]},
+   "thumbnail": {
+    "id": "https://milutinbojic.digitalna.rs/servlet/RcWebThumbnail?obj_id=00000001/vilijam1/00000003&pg_idx=0&obj_type=MONOGRAPH",
+    "type": "Image",
+    "format": "image/jpeg"
+   }
+  },
+  {
+   "id": "https://milutinbojic.digitalna.rs/iiif/api/presentation/3/f77afd7c-334c-4c96-b962-b58775ca5044%252F00000001%252Fvilijam1%252F00000004/manifest",
+   "type": "Manifest",
+   "@logo": "https://milutinbojic.digitalna.rs/iiiflogo/logo.png",
+   "label": {"none": ["Хамлет"]},
+   "thumbnail": {
+    "id": "https://milutinbojic.digitalna.rs/servlet/RcWebThumbnail?obj_id=00000001/vilijam1/00000004&pg_idx=0&obj_type=MONOGRAPH",
+    "type": "Image",
+    "format": "image/jpeg"
+   }
+  },
+  {
+   "id": "https://milutinbojic.digitalna.rs/iiif/api/presentation/3/f77afd7c-334c-4c96-b962-b58775ca5044%252F00000001%252Fvilijam1%252F00000002/manifest",
+   "type": "Manifest",
+   "@logo": "https://milutinbojic.digitalna.rs/iiiflogo/logo.png",
+   "label": {"none": ["Јулије Цезар"]},
+   "thumbnail": {
+    "id": "https://milutinbojic.digitalna.rs/servlet/RcWebThumbnail?obj_id=00000001/vilijam1/00000002&pg_idx=0&obj_type=MONOGRAPH",
+    "type": "Image",
+    "format": "image/jpeg"
+   }
+  }
+ ]
+}

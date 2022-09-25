@@ -1,0 +1,43 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://milutinbojic.digitalna.rs/iiif/api/presentation/3/collection/a7dffa27-9e1d-44ff-9ac9-0091400891d2",
+  "type": "Collection",
+  "label": {"none": ["Бојићева библиотека"]},
+  "logo": "https://milutinbojic.digitalna.rs/iiiflogo/logo.png",
+  "summary": {},
+  "items": [
+    {
+      "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11021855/manifest",
+      "type": "Manifest",
+      "@logo": "https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png",
+      "label": {"none": ["Shakespeare, William: The plays of Shakespeare. 1"]},
+      "thumbnail": {
+        "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11021855_00001/full/280,/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg"
+      }
+    },
+    {
+      "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11021856/manifest",
+      "type": "Manifest",
+      "@logo": "https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png",
+      "label": {"none": ["Shakespeare, William: The plays of Shakespeare. 2"]},
+      "thumbnail": {
+        "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11021856_00001/full/280,/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg"
+      }
+    },
+    {
+      "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11021857/manifest",
+      "type": "Manifest",
+      "@logo": "https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png",
+      "label": {"none": ["Искрице"]},
+      "thumbnail": {
+        "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11021857_00001/full/280,/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg"
+      }
+    }
+  ]
+}
