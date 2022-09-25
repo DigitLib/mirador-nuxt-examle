@@ -17,7 +17,7 @@ export default {
 
   router: {
     // base: '/iiifrep/vilijam/dist1/'
-    base: '/vilijam/'
+    base: '/'
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
