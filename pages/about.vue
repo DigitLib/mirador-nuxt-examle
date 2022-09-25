@@ -48,8 +48,8 @@ export default {
   name: "About",
 
   data: () => ({
-    title: "О пројекту",
-    description: "Упоредни преводи Шекспира и Бојићева заоставштина",
+    title: "About",
+    description: "Read more about this implementation",
   }),
   head() {
     return {
@@ -93,7 +93,5 @@ export default {
 .theme--dark.v-card > .v-card__text {
   color: white !important;
 }
-/*.read-more {*/
-/*  color: rgb(92, 148, 252);*/
-/*}*/
+
 </style>

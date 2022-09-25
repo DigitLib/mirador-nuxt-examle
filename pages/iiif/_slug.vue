@@ -24,7 +24,7 @@ export default {
   },
 
   data: () => ({
-    title: "Упоредни",
+    title: "Comparable",
   }),
   head() {
     return {
@@ -36,12 +36,6 @@ export default {
   computed: {
     miradorViewerOptions() {
 
-      // const manifest1 = this.$route.query.mnf1
-      // const manifest2 = this.$route.query.mnf2
-      // const manifest1 = this.asyncData().mnf1
-      // const manifest2 = this.mnf2
-      // const pg = this.$route.query.pg
-      // const collection = this.$route.query.col
       const color = this.$vuetify.theme.dark === false ? 'light' : 'dark'
 
       const config = {
@@ -82,11 +76,9 @@ export default {
         workspaceControlPanel: {
           enabled: false,
         }
-        // workspace: {
-        //   type: 'elastic'
-        // }
+        
       }
-      // Mirador.viewer(config, [...miradorImageToolsPlugin, textOverlayPlugin])
+      
       return config;
     },
   },
