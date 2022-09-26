@@ -45,18 +45,14 @@
             </v-list>
           </v-list-group>
         </v-list-item-group>
-        <v-list-item to="/bojic" class="text-uppercase">
-          <v-list-item-title>... и Бојић</v-list-item-title>
-        </v-list-item>
         <v-list-item to="/about" class="text-uppercase">
-          <v-list-item-title>О пројекту</v-list-item-title>
+          <v-list-item-title>About</v-list-item-title>
         </v-list-item>
       </v-list>
     </v-navigation-drawer>
 
     <v-app-bar fixed flat app>
       <v-app-bar-nav-icon class="hidden-md-and-up" @click="drawer = true" />
-<!--            <v-toolbar-title>ШЕКСПИР</v-toolbar-title>-->
       <nuxt-link to="/" class="d-flex">
         <Logo />
       </nuxt-link>
